@@ -4,7 +4,7 @@ email:       dl2863@nyu.edu
 description: > # this means to ignore newlines until "baseurl:"
  
 baseurl:     ""
-url:        "http://z3r0s.com"
+url:        "https://z3r0s.github.io/"
 date_format: "%b %-d, %Y"
 
 # Google services
