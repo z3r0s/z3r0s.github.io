@@ -70,7 +70,7 @@ text:
 
 
 # Build settings
-highlighter:  rogue
+highlighter:  rouge
 permalink:    pretty
 paginate:     8
 sass:
