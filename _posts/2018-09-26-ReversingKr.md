@@ -15,7 +15,7 @@ So instead, I decided to tackle the challenges on [reversing.kr](reversing.kr). 
 
 After many days of struggling, I ended up solving all challenges :)
 
-![score]({{ site.url }}/images/2018/reversingKr.png)
+![score](/images/2018/reversingKr.png)
 
 
 **Custom Shell** and **Adventure** were very interesting. I had to spend most time since I was not very familiar with them. I would not go into the details as it would not make it fun for others.  

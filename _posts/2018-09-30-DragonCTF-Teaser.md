@@ -92,7 +92,7 @@ int __stdcall WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdL
 
 ## Analysis 
 
-![score]({{ site.url }}/images/2018/oldskull1.bmp)
+![score](/images/2018/oldskull1.bmp)
 
 
 This program expects five inputs: code1~code4 and the final flag. It seems the user input goes through some functions that determine whether it is correct or not.
@@ -374,7 +374,7 @@ F10::winsettitle,Brutal Oldskull,, macroworld
 
 This was more promising since there was a guarantee that it would tell me the correct number...
 
-![score]({{ site.url }}/images/2018/autohotkey.gif)
+![score](/images/2018/autohotkey.gif)
 
 But it was taking forever (at least not up to the speed that I was expected. Perhaps, it was due to ImageSearch...)
 
@@ -486,6 +486,6 @@ At this point, all I had to do was to write a simple python script that prints o
 
 Verifying with the program:
 
-![score]({{ site.url }}/images/2018/oldskull2.bmp)
+![score](/images/2018/oldskull2.bmp)
 
 
